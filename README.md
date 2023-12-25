@@ -22,6 +22,18 @@ VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
 
 # 二、运行效果
 
+## 图片展示
+<img src="./markdownImg/001.png">
+<img src="./markdownImg/002.png">
+<img src="./markdownImg/003.png">
+<img src="./markdownImg/004.png">
+<img src="./markdownImg/004.png">
+<img src="./markdownImg/005.png">
+
+
+
+## 视频地址在markdownImg文件夹里面
+
 1、下拉刷新
 
 <video height="800" width="400" src ="./markdownImg/11.mp4" frameborder="1" allowfullscreen> </video>
