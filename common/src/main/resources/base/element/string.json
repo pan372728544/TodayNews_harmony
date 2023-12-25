@@ -1,0 +1,128 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "News Release"
+    },
+    {
+      "name": "pull_up_load_text",
+      "value": "Loading in..."
+    },
+    {
+      "name": "uploading_text",
+      "value": "Uploading... Please wait."
+    },
+    {
+      "name": "pull_down_refresh_text",
+      "value": "The drop-down refresh"
+    },
+    {
+      "name": "release_refresh_text",
+      "value": "Loosen the refresh"
+    },
+    {
+      "name": "refreshing_text",
+      "value": "Is refreshing"
+    },
+    {
+      "name": "refresh_success_text",
+      "value": "Refresh the success"
+    },
+    {
+      "name": "refresh_fail_text",
+      "value": "Refresh the failure"
+    },
+    {
+      "name": "release_btn",
+      "value": "Release"
+    },
+    {
+      "name": "http_error_message",
+      "value": "Network request failed, please try later!"
+    },
+    {
+      "name": "upload_error_message",
+      "value": "Upload file failed, please try again!"
+    },
+    {
+      "name": "page_none_msg",
+      "value": "Network loading failure"
+    },
+    {
+      "name": "click_reload",
+      "value": "Click Reload"
+    },
+    {
+      "name": "prompt_message",
+      "value": "No more data"
+    },
+    {
+      "name": "prompt_no_title",
+      "value": "Please enter a title."
+    },
+    {
+      "name": "prompt_select_img",
+      "value": "Select an image to upload."
+    },
+    {
+      "name": "prompt_no_content",
+      "value": "Please enter the content."
+    },
+    {
+      "name": "prompt_no_file",
+      "value": "Please select a picture."
+    },
+    {
+      "name": "title_default_text",
+      "value": "Fill in the title"
+    },
+    {
+      "name": "content_default_text",
+      "value": "Write something"
+    },
+    {
+      "name": "harmony_hei_ti",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "harmony_hei_ti_medium",
+      "value": "HarmonyHeiTi-Medium"
+    },
+    {
+      "name": "tab_all",
+      "value": "All"
+    },
+    {
+      "name": "tab_domestic",
+      "value": "Domestic"
+    },
+    {
+      "name": "tab_international",
+      "value": "International"
+    },
+    {
+      "name": "tab_fun",
+      "value": "Fun"
+    },
+    {
+      "name": "tab_military",
+      "value": "Military"
+    },
+    {
+      "name": "tab_sports",
+      "value": "Sports"
+    },
+    {
+      "name": "tab_science",
+      "value": "Science"
+    }
+  ]
+}

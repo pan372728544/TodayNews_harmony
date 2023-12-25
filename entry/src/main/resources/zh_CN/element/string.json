@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "今日头条"
+    },
+    {
+      "name": "home",
+      "value": "首页"
+    },
+    {
+      "name": "video",
+      "value": "视频"
+    },
+    {
+      "name": "shop",
+      "value": "商城"
+    },
+    {
+      "name": "mine",
+      "value": "我的"
+    }
+  ]
+}

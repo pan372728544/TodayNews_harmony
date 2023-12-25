@@ -1,0 +1,160 @@
+{
+  "float": [
+    {
+      "name": "micro_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "smaller_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "small_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "middle_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "big_font_size",
+      "value": "18fp"
+    },
+    {
+      "name": "bigger_font_size",
+      "value": "20fp"
+    },
+    {
+      "name": "huge_font_size",
+      "value": "24fp"
+    },
+    {
+      "name": "vp_one",
+      "value": "1vp"
+    },
+    {
+      "name": "vp_two",
+      "value": "2vp"
+    },
+    {
+      "name": "vp_four",
+      "value": "4vp"
+    },
+    {
+      "name": "vp_six",
+      "value": "6vp"
+    },
+    {
+      "name": "vp_eight",
+      "value": "8vp"
+    },
+    {
+      "name": "vp_ten",
+      "value": "10vp"
+    },
+    {
+      "name": "vp_twelve",
+      "value": "12vp"
+    },
+    {
+      "name": "vp_fourteen",
+      "value": "14vp"
+    },
+    {
+      "name": "vp_sixteen",
+      "value": "16vp"
+    },
+    {
+      "name": "vp_eighteen",
+      "value": "18vp"
+    },
+    {
+      "name": "vp_twenty",
+      "value": "20vp"
+    },
+    {
+      "name": "vp_twenty_four",
+      "value": "24vp"
+    },
+    {
+      "name": "vp_fifty_six",
+      "value": "56vp"
+    },
+    {
+      "name": "commodity_item_height",
+      "value": "263vp"
+    },
+    {
+      "name": "commodity_list_margin",
+      "value": "-6vp"
+    },
+    {
+      "name": "commodity_desc_height",
+      "value": "20vp"
+    },
+    {
+      "name": "commodity_item_image_size",
+      "value": "132vp"
+    },
+    {
+      "name": "count_text_width",
+      "value": "32vp"
+    },
+    {
+      "name": "count_width",
+      "value": "78vp"
+    },
+    {
+      "name": "empty_image_size",
+      "value": "60vp"
+    },
+    {
+      "name": "capsule_height",
+      "value": "40vp"
+    },
+    {
+      "name": "icon_size",
+      "value": "28vp"
+    },
+    {
+      "name": "icon_row_height",
+      "value": "44vp"
+    },
+    {
+      "name": "live_image_height",
+      "value": "150vp"
+    },
+    {
+      "name": "live_item_height",
+      "value": "202vp"
+    },
+    {
+      "name": "live_desc_margin_left",
+      "value": "38vp"
+    },
+    {
+      "name": "icon_person_size",
+      "value": "48vp"
+    },
+    {
+      "name": "account_points_height",
+      "value": "38vp"
+    },
+    {
+      "name": "avatar_height",
+      "value": "110vp"
+    },
+    {
+      "name": "order_height",
+      "value": "125vp"
+    },
+    {
+      "name": "icon_dock_height",
+      "value": "188vp"
+    },
+    {
+      "name": "personal_background_image_height",
+      "value": "222vp"
+    }
+  ]
+}

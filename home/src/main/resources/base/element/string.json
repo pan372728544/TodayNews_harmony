@@ -1,0 +1,132 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "module_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "新闻发布"
+    },
+    {
+      "name": "pull_up_load_text",
+      "value": "加载中..."
+    },
+    {
+      "name": "pull_down_refresh_text",
+      "value": "下拉刷新"
+    },
+    {
+      "name": "uploading_text",
+      "value": "正在上传，请稍等"
+    },
+    {
+      "name": "release_refresh_text",
+      "value": "松开刷新"
+    },
+    {
+      "name": "refreshing_text",
+      "value": "正在刷新"
+    },
+    {
+      "name": "refresh_success_text",
+      "value": "刷新成功"
+    },
+    {
+      "name": "refresh_fail_text",
+      "value": "刷新失败"
+    },
+    {
+      "name": "release_btn",
+      "value": "发布"
+    },
+    {
+      "name": "http_error_message",
+      "value": "网络请求失败，请稍后尝试！"
+    },
+    {
+      "name": "page_none_msg",
+      "value": "网络加载失败"
+    },
+    {
+      "name": "click_reload",
+      "value": "重新加载"
+    },
+    {
+      "name": "prompt_message",
+      "value": "没有更多数据了"
+    },
+    {
+      "name": "prompt_no_title",
+      "value": "请输入标题"
+    },
+    {
+      "name": "prompt_select_img",
+      "value": "请选择图片进行上传"
+    },
+    {
+      "name": "prompt_no_content",
+      "value": "请输入内容"
+    },
+    {
+      "name": "prompt_no_file",
+      "value": "请选择图片"
+    },
+    {
+      "name": "upload_error_message",
+      "value": "上传文件失败，请重试！"
+    },
+    {
+      "name": "title_default_text",
+      "value": "填写标题"
+    },
+    {
+      "name": "content_default_text",
+      "value": "写点什么"
+    },
+    {
+      "name": "harmony_hei_ti",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "harmony_hei_ti_medium",
+      "value": "HarmonyHeiTi-Medium"
+    },
+    {
+      "name": "tab_all",
+      "value": "全部"
+    },
+    {
+      "name": "tab_domestic",
+      "value": "国内"
+    },
+    {
+      "name": "tab_international",
+      "value": "国际"
+    },
+    {
+      "name": "tab_fun",
+      "value": "娱乐"
+    },
+    {
+      "name": "tab_military",
+      "value": "军事"
+    },
+    {
+      "name": "tab_sports",
+      "value": "体育"
+    },
+    {
+      "name": "tab_science",
+      "value": "科技"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "News"
+    },
+    {
+      "name": "home",
+      "value": "Home"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "shop",
+      "value": "Shop"
+    },
+    {
+      "name": "mine",
+      "value": "Mine"
+    }
+  ]
+}

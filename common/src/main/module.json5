@@ -1,0 +1,18 @@
+{
+  "module": {
+    "name": "common",
+    "type": "shared",
+    "description": "$string:shared_desc",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ],
+    "deliveryWithInstall": true,
+    "pages": "$profile:main_pages",
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.INTERNET"
+      }
+    ]
+  }
+}
